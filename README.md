@@ -66,13 +66,13 @@ campus-resource-hub-v2
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/campus-resource-hub-v2.git
+git clone https://github.com/YOUR_USERNAME/campus-resource-hub.git
 ```
 
 ### 2️⃣ Navigate into the project
 
 ```bash
-cd campus-resource-hub-v2
+cd campus-resource-hub
 ```
 
 ### 3️⃣ Install backend dependencies
